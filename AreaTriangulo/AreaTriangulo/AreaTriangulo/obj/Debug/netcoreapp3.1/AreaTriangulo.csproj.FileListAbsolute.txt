@@ -1,0 +1,13 @@
+C:\Projetos\CSharp\AreaTriangulo\AreaTriangulo\AreaTriangulo\bin\Debug\netcoreapp3.1\AreaTriangulo.exe
+C:\Projetos\CSharp\AreaTriangulo\AreaTriangulo\AreaTriangulo\bin\Debug\netcoreapp3.1\AreaTriangulo.deps.json
+C:\Projetos\CSharp\AreaTriangulo\AreaTriangulo\AreaTriangulo\bin\Debug\netcoreapp3.1\AreaTriangulo.runtimeconfig.json
+C:\Projetos\CSharp\AreaTriangulo\AreaTriangulo\AreaTriangulo\bin\Debug\netcoreapp3.1\AreaTriangulo.runtimeconfig.dev.json
+C:\Projetos\CSharp\AreaTriangulo\AreaTriangulo\AreaTriangulo\bin\Debug\netcoreapp3.1\AreaTriangulo.dll
+C:\Projetos\CSharp\AreaTriangulo\AreaTriangulo\AreaTriangulo\bin\Debug\netcoreapp3.1\AreaTriangulo.pdb
+C:\Projetos\CSharp\AreaTriangulo\AreaTriangulo\AreaTriangulo\obj\Debug\netcoreapp3.1\AreaTriangulo.csprojAssemblyReference.cache
+C:\Projetos\CSharp\AreaTriangulo\AreaTriangulo\AreaTriangulo\obj\Debug\netcoreapp3.1\AreaTriangulo.AssemblyInfoInputs.cache
+C:\Projetos\CSharp\AreaTriangulo\AreaTriangulo\AreaTriangulo\obj\Debug\netcoreapp3.1\AreaTriangulo.AssemblyInfo.cs
+C:\Projetos\CSharp\AreaTriangulo\AreaTriangulo\AreaTriangulo\obj\Debug\netcoreapp3.1\AreaTriangulo.csproj.CoreCompileInputs.cache
+C:\Projetos\CSharp\AreaTriangulo\AreaTriangulo\AreaTriangulo\obj\Debug\netcoreapp3.1\AreaTriangulo.dll
+C:\Projetos\CSharp\AreaTriangulo\AreaTriangulo\AreaTriangulo\obj\Debug\netcoreapp3.1\AreaTriangulo.pdb
+C:\Projetos\CSharp\AreaTriangulo\AreaTriangulo\AreaTriangulo\obj\Debug\netcoreapp3.1\AreaTriangulo.genruntimeconfig.cache
